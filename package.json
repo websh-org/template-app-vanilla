@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "description": "Vanilla Example App For WebShell",
+  "keywords": [],
+  "main": "src/index.html",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "npx http-server ."
+  }
+}
