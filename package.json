@@ -10,7 +10,8 @@
     "app"
   ],
   "scripts": {
-    "start": "npx http-server ."
+    "start": "npx http-server .",
+    "dev": "npx http-server -c0 ."
   },
   "author": "Zoran Obradović, Ljudmila.org",
   "license": "ISC",
