@@ -2,7 +2,7 @@ WebShellApp
   .manifest({
     "v": 0,
     "name": "Vanilla Example App",
-    "short_name": "Vanilla",
+    "short_name": "Vanilla Example",
     "version": "0.0.1",
     "icon": "icon.svg",
     "description": "The Vanilla JS example app for WebShell ",
