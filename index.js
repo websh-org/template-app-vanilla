@@ -37,7 +37,7 @@ WebShellApp.command("file-open", function ({ format, content, type, extension })
   // you can do different things here based on the type, format and extansion
 
   if (type === "text/html") {
-    this.throw("file-bad-file", {
+    this.throw("file-cannot-open", {
       reason: "This is not a HTML editor."
     })
   }
