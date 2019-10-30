@@ -3,7 +3,7 @@ A Vanilla JS template for WebShell apps
 
 ## Quick Start
 
-1. Copy this repo
+1. [Copy this repo](https://github.com/websh-org/template-app-vanilla/generate)
 2. Edit the app's manifest and commads in `index.js`
 3. `npm run dev` to run the application locally. Prepend `PORT=[number]` to run on a different port than 8080
 4. Go to the [WebShell Sandbox](https://websh.org/sandbox)
